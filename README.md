@@ -10,7 +10,7 @@ The Mental Health Tracker App is designed to help users monitor their daily ment
 - **Splash Screen Animation:** Created using Procreate, the splash screen animation is a result of months of meticulous design work.
 - **Authentication:** Users can sign up with their email and password. Firebase handles authentication and storage. If incorrect credentials are used during login, appropriate error messages are displayed.
 
-<Add Gif of App>
+https://github.com/nethra-viswanathan/MentalHealthApp/blob/main/Splash+Login.gif?raw=true
 
 ### 2. Mood Tracking Feature
 - **Entry:** Users can select the date for their mood entry (future dates are restricted).
