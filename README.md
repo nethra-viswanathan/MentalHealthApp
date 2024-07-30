@@ -18,7 +18,7 @@ The Mental Health Tracker App is designed to help users monitor their daily ment
 - **Mood Representation:** Users choose an emoji that best represents their mood and can provide additional details via a textbox.
 - **Data Storage:** Entries are stored in Firebase, and a success popup is displayed upon successful submission.
 
-<Add Gif of App>
+![Mood+Tracking](https://github.com/nethra-viswanathan/MentalHealthApp/blob/main/Daily-Entry.gif?raw=true)
 
 ### 3. Dashboard
 - **Mood Visualization:** Moods are displayed in both list and graph formats.
@@ -26,11 +26,11 @@ The Mental Health Tracker App is designed to help users monitor their daily ment
   - **Graph Format:** Monthly mood trends are graphically represented, with statistics showing the frequency of different moods.
 - **Navigation:** Initially displays the current month’s data, with options to view previous months.
 
-<Add Gif of App>
+![Dashboard](https://github.com/nethra-viswanathan/MentalHealthApp/blob/main/Dashboard.gif?raw=true)
 
 ### 4. Get Help
 - **Support:** Users who cannot immediately access mental health professionals can describe their feelings in the app.
 - **Assistance:** The app, using OpenAI, provides suggestions on how users can improve their mood until professional help is available.
 
-<Add Gif of App>
+![Get+Help](https://github.com/nethra-viswanathan/MentalHealthApp/blob/main/Get-Help.gif?raw=true)
 
